@@ -96,7 +96,7 @@ img::-moz-selection {
 
 #mainNav .navbar-brand {
   font-weight: 800;
-  color: #343a40;
+  color: #ffffff;
 }
 
 #mainNav .navbar-toggler {
@@ -121,7 +121,7 @@ img::-moz-selection {
   }
   #mainNav .navbar-brand {
     padding: 10px 20px;
-    color: #fff;
+    color: #ffffff;
   }
   #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
     color: rgba(255, 255, 255, 0.8);
@@ -139,7 +139,6 @@ img::-moz-selection {
   #mainNav {
     transition: background-color 0.2s;
     /* Force Hardware Acceleration in WebKit */
-    transform: translate3d(0, 0, 0);
     -webkit-backface-visibility: hidden;
   }
   #mainNav.is-fixed {
@@ -151,13 +150,13 @@ img::-moz-selection {
     background-color: rgba(255, 255, 255, 0.9);
   }
   #mainNav.is-fixed .navbar-brand {
-    color: #212529;
+    color: #ffffff;
   }
   #mainNav.is-fixed .navbar-brand:focus, #mainNav.is-fixed .navbar-brand:hover {
-    color: #0085A1;
+    color: #ffffff;
   }
   #mainNav.is-fixed .navbar-nav > li.nav-item > a {
-    color: #212529;
+    color: #ffffff;
   }
   #mainNav.is-fixed .navbar-nav > li.nav-item > a:focus, #mainNav.is-fixed .navbar-nav > li.nav-item > a:hover {
     color: #0085A1;
@@ -168,10 +167,25 @@ img::-moz-selection {
   }
 }
 
+headOfficial{
+  background: no-repeat center center;
+  background-attachment: scroll;
+  position: relative;
+  background-size: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  padding: 200px 0 150px;
+  color: white;
+  line-height: 1.1;
+  display: block;
+}
+
 header.masthead {
   margin-bottom: 50px;
   background: no-repeat center center;
-  background-color: #868e96;
   background-attachment: scroll;
   position: relative;
   background-size: cover;
@@ -183,8 +197,6 @@ header.masthead .overlay {
   left: 0;
   height: 100%;
   width: 100%;
-  background-color: #212529;
-  opacity: 0.5;
 }
 
 header.masthead .page-heading,
@@ -392,6 +404,12 @@ footer .copyright {
   text-transform: uppercase;
   border-radius: 0;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.blog-pic{
+  width:18em;
+  height:12em;
+  border-radius: 1.5em;
 }
 
 .btn-primary {
