@@ -2,9 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd5627ad-6245-4cb0-8278-d742b9156136" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/blogposts/kyoto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1652.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1788.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1789.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/KyotoOmw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bambooForest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/goldTempleStreet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/icecreamKyoto.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/inariShrineCat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/inarishrine.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/izakaya.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoAmazingMochi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoDango.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoGyoza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoMonkey1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoSbux.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoStreet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoTako.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoTemple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoTemple1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotodessert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotodessert1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotodessert2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotogeisha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotomonkey.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotostreefood.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotostreetNight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyototemple2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoviews.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/leavingkyoto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/matchadessert.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/otsuka.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/otsukaMenu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/otsukaSake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/temple1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/tokyoBanana.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/1helloworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/1helloworld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +113,8 @@
       <option name="presentableId" value="Default" />
       <updated>1583097810691</updated>
       <workItem from="1583097813836" duration="3477000" />
-      <workItem from="1583535136750" duration="20560000" />
+      <workItem from="1583535136750" duration="20666000" />
+      <workItem from="1585083876527" duration="9373000" />
     </task>
     <servers />
   </component>
