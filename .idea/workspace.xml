@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd5627ad-6245-4cb0-8278-d742b9156136" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/tokyoBanana-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1812-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1813-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1814-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1818-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1819-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1834-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_1836-min.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/kyotoShrine.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogposts/kyoto.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/kyoto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/goldTempleStreet.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/goldTempleStreet.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/temple1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/temple1.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +88,7 @@
       <updated>1583097810691</updated>
       <workItem from="1583097813836" duration="3477000" />
       <workItem from="1583535136750" duration="20666000" />
-      <workItem from="1585083876527" duration="12318000" />
+      <workItem from="1585083876527" duration="13680000" />
     </task>
     <servers />
   </component>
