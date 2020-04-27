@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd5627ad-6245-4cb0-8278-d742b9156136" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogposts/simplespring.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/outfit0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/outfit1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/outfit2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/outfit3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/outfit4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/outfit5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/cover.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fashion.html" beforeDir="false" afterPath="$PROJECT_DIR$/fashion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -90,7 +83,7 @@
       <workItem from="1585083876527" duration="13991000" />
       <workItem from="1586473551057" duration="5337000" />
       <workItem from="1587510201291" duration="8000" />
-      <workItem from="1587821628905" duration="8949000" />
+      <workItem from="1587821628905" duration="9131000" />
     </task>
     <servers />
   </component>
