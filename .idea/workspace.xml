@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd5627ad-6245-4cb0-8278-d742b9156136" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogposts/nycboba.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/alley.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/boba.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/gongcha.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/thealley.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/tigersugar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogposts/simplespring.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outfit0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outfit1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outfit2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outfit3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outfit4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/outfit5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eats.html" beforeDir="false" afterPath="$PROJECT_DIR$/eats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fashion.html" beforeDir="false" afterPath="$PROJECT_DIR$/fashion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,6 +46,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -88,7 +90,7 @@
       <workItem from="1585083876527" duration="13991000" />
       <workItem from="1586473551057" duration="5337000" />
       <workItem from="1587510201291" duration="8000" />
-      <workItem from="1587821628905" duration="7654000" />
+      <workItem from="1587821628905" duration="8949000" />
     </task>
     <servers />
   </component>
