@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd5627ad-6245-4cb0-8278-d742b9156136" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/advice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogposts/finances.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/sun.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beauty.html" beforeDir="false" afterPath="$PROJECT_DIR$/beauty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/helloworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/helloworld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/kyoto.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/kyoto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/nycboba.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/nycboba.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/osaka.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/osaka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/simplespring.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/simplespring.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/tokyo.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/tokyo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eats.html" beforeDir="false" afterPath="$PROJECT_DIR$/eats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fashion.html" beforeDir="false" afterPath="$PROJECT_DIR$/fashion.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/favorites.html" beforeDir="false" afterPath="$PROJECT_DIR$/favorites.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +98,7 @@
       <workItem from="1585083876527" duration="13991000" />
       <workItem from="1586473551057" duration="5337000" />
       <workItem from="1587510201291" duration="8000" />
-      <workItem from="1587821628905" duration="9131000" />
+      <workItem from="1587821628905" duration="11800000" />
     </task>
     <servers />
   </component>
