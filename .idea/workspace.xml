@@ -19,6 +19,7 @@
       <change beforePath="$PROJECT_DIR$/fashion.html" beforeDir="false" afterPath="$PROJECT_DIR$/fashion.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/favorites.html" beforeDir="false" afterPath="$PROJECT_DIR$/favorites.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,7 +101,9 @@
       <workItem from="1587510201291" duration="8000" />
       <workItem from="1587821628905" duration="12050000" />
       <workItem from="1589748723697" duration="467000" />
-      <workItem from="1592152945855" duration="3009000" />
+      <workItem from="1592152945855" duration="3169000" />
+      <workItem from="1592358408404" duration="764000" />
+      <workItem from="1592443299310" duration="2204000" />
     </task>
     <servers />
   </component>
