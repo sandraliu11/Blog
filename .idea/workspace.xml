@@ -2,25 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd5627ad-6245-4cb0-8278-d742b9156136" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogposts/teamlab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4683.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4684.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4685.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4686.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4688.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4689.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4690.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4691.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4692.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4693.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4694.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4695.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4696.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4697.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4698.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4699.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_4700.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogposts/vpn.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/IMG_5503.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/summer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vpn.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vpn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/vv.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/kyoto.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/kyoto.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/osaka.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/osaka.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/teamlab.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/teamlab.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogposts/tokyo.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/tokyo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel.html" afterDir="false" />
     </list>
@@ -106,7 +98,10 @@
       <workItem from="1592152945855" duration="3169000" />
       <workItem from="1592358408404" duration="764000" />
       <workItem from="1592443299310" duration="3939000" />
-      <workItem from="1593368531922" duration="2725000" />
+      <workItem from="1593368531922" duration="2884000" />
+      <workItem from="1593787358952" duration="116000" />
+      <workItem from="1594335041278" duration="1000" />
+      <workItem from="1595099488057" duration="2583000" />
     </task>
     <servers />
   </component>
