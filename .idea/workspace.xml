@@ -2,38 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd5627ad-6245-4cb0-8278-d742b9156136" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/IGstats.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/IMG_5454.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ali.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/blueBG.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/bug.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/glassons.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/hilton.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ipsy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/mediakit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/polo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/ralph.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mediakit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blogposts/conrad.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/conradCoffee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/conradDrinks.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/conradFood.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/conradFood2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/conradLobby.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/conradSuite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/conradTree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/conradView.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/conradWork.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/advice.html" beforeDir="false" afterPath="$PROJECT_DIR$/advice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/beauty.html" beforeDir="false" afterPath="$PROJECT_DIR$/beauty.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/finances.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/finances.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/helloworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/helloworld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/jalifruit.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/jalifruit.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/kyoto.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/kyoto.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/nycboba.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/nycboba.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/osaka.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/osaka.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/simplespring.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/simplespring.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/teamlab.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/teamlab.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/tokyo.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/tokyo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogposts/vpn.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogposts/vpn.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eats.html" beforeDir="false" afterPath="$PROJECT_DIR$/eats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fashion.html" beforeDir="false" afterPath="$PROJECT_DIR$/fashion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/favorites.html" beforeDir="false" afterPath="$PROJECT_DIR$/favorites.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post.html" beforeDir="false" afterPath="$PROJECT_DIR$/post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -125,7 +105,8 @@
       <workItem from="1595696839399" duration="4000" />
       <workItem from="1600910290075" duration="514000" />
       <workItem from="1609202081119" duration="3626000" />
-      <workItem from="1609258161902" duration="4570000" />
+      <workItem from="1609258161902" duration="4640000" />
+      <workItem from="1609271842888" duration="1065000" />
     </task>
     <servers />
   </component>
