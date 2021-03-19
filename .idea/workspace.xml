@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd5627ad-6245-4cb0-8278-d742b9156136" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogposts/conrad.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conradCoffee.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conradDrinks.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conradFood.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conradFood2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conradLobby.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conradSuite.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conradTree.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conradView.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/conradWork.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/audienceAge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/audienceGender.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/audienceInterests.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/audienceLocations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/batiste-arabia-1-638.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/million.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/papajohns.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel.html" beforeDir="false" afterPath="$PROJECT_DIR$/travel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mediakit.html" beforeDir="false" afterPath="$PROJECT_DIR$/mediakit.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +102,8 @@
       <workItem from="1600910290075" duration="514000" />
       <workItem from="1609202081119" duration="3626000" />
       <workItem from="1609258161902" duration="4640000" />
-      <workItem from="1609271842888" duration="1065000" />
+      <workItem from="1609271842888" duration="1224000" />
+      <workItem from="1616168451358" duration="1974000" />
     </task>
     <servers />
   </component>
